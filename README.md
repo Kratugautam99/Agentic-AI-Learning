@@ -63,7 +63,7 @@ The projects leverage a diverse set of modern AI and developer tools:
 
 ```plaintext
 Agentic-AI-and-Generative-AI-Practice/
-├── README.md
+|
 ├── Agno_and_Phidata_Apps/
 │   ├── agents.db
 │   ├── 1_Semantic_Classifier_and_Sports_Coach_Agents_Agno.py
@@ -73,6 +73,7 @@ Agentic-AI-and-Generative-AI-Practice/
 │   │   └── Phidata_PlaygroundUI_Agents.png
 │   ├── requirements.txt
 │   └── instructions.txt
+|
 ├── Cerebras_Cartesia_LiveKit_Exa_DeepGram_Apps/
 │   ├── Automated-User-Research-[Cerebras, LangGraph, LangSmith].ipynb
 │   ├── Build-Your-Own-Perplexity-[Exa, Cerebras].ipynb
@@ -83,6 +84,7 @@ Agentic-AI-and-Generative-AI-Practice/
 │   │   └── Real_Time_Sales_Agent.png
 │   ├── requirements.txt
 │   └── instructions.txt
+|
 ├── CrewAI_Apps/
 │   ├── pyproject.toml
 │   ├── restricted_func.py
@@ -107,6 +109,7 @@ Agentic-AI-and-Generative-AI-Practice/
 │   │   └── CrewAI_Research_Agent.png
 │   ├── requirements.txt
 │   └── instructions.txt
+|
 ├── LangBase_Apps/
 │   ├── package.json
 │   ├── package-lock.json
@@ -123,6 +126,7 @@ Agentic-AI-and-Generative-AI-Practice/
 │   │   └── LangBase_Agent_GUI.png
 │   ├── requirements.txt (if any)
 │   └── instructions.txt
+|
 ├── LangChain_LangGraph_LangSmith_Apps/
 │   ├── 1)_LLM_Application_Langchain.ipynb
 │   ├── 2)_Semantic_Search_Engine.ipynb
@@ -149,6 +153,7 @@ Agentic-AI-and-Generative-AI-Practice/
 │   │   └── LangTrio_Retrieval_Augmented_Generator.png
 │   ├── requirements.txt
 │   └── instructions.txt
+|
 ├── LlamaIndex_and_ArizeAI_Apps/
 │   ├── agents.ipynb
 │   ├── components.ipynb
@@ -161,6 +166,7 @@ Agentic-AI-and-Generative-AI-Practice/
 │   │   └── LlamaIndex_Workflows.png
 │   ├── requirements.txt
 │   └── instructions.txt
+|
 ├── LocalLLM_Inference_Softwares/
 │   ├── Commands_and_Scripts.md
 │   ├── Modelfile
@@ -188,6 +194,7 @@ Agentic-AI-and-Generative-AI-Practice/
 │   │   └── Vllm_CLI.png
 │   ├── requirements.txt
 │   └── instructions.txt
+|
 ├── MCP_Server_Tools/
 │   ├── main.py
 │   ├── mcp.json
@@ -213,6 +220,7 @@ Agentic-AI-and-Generative-AI-Practice/
 │   │   └── MCP_ServerInspect_Scenario3.png
 │   ├── requirements.txt
 │   └── instructions.txt
+|
 ├── Smolagent_and_LangFuse_Apps/
 │   ├── code_agents.ipynb
 │   ├── multiagent_notebook.ipynb
@@ -229,6 +237,9 @@ Agentic-AI-and-Generative-AI-Practice/
 │   │   └── Smolagent_Vision_Agents.png
 │   ├── requirements.txt
 │   └── instructions.txt
+|
+├── README.md (This File)
+|
 └── .gitignore
 ```
 
