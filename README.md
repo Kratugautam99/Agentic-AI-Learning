@@ -258,9 +258,25 @@ Each folder contains self-contained projects with code, instructions, and screen
 
 **Key Images:**
 
-| Agno AgentOS Agents | Phidata Playground UI |
-|:---:|:---:|
-| ![Agno](Agno_and_Phidata_Apps/Imgs/Agno_AgentOS_Agents.png) | ![Phidata](Agno_and_Phidata_Apps/Imgs/Phidata_PlaygroundUI_Agents.png) |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="Agno_and_Phidata_Apps/Imgs/Agno_AgentOS_Agents.png" alt="Agno AgentOS Agents" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Agno AgentOS Agents</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="Agno_and_Phidata_Apps/Imgs/Phidata_PlaygroundUI_Agents.png" alt="Phidata Playground UI" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Phidata Playground UI</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 **Instructions:**  
 1. Install dependencies: `pip install -r requirements.txt`  
@@ -278,9 +294,31 @@ Each folder contains self-contained projects with code, instructions, and screen
 
 **Key Images:**
 
-| Automated User Research | Build Your Own Perplexity | Real‑Time Sales Agent |
-|:---:|:---:|:---:|
-| ![User Research](Cerebras_Cartesia_LiveKit_Exa_DeepGram_Apps/Imgs/Automated_User_Research.png) | ![Perplexity Clone](Cerebras_Cartesia_LiveKit_Exa_DeepGram_Apps/Imgs/Build_Your_Own_Perplexity.png) | ![Sales Agent](Cerebras_Cartesia_LiveKit_Exa_DeepGram_Apps/Imgs/Real_Time_Sales_Agent.png) |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="Cerebras_Cartesia_LiveKit_Exa_DeepGram_Apps/Imgs/Automated_User_Research.png" alt="Automated User Research" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Automated User Research</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="Cerebras_Cartesia_LiveKit_Exa_DeepGram_Apps/Imgs/Build_Your_Own_Perplexity.png" alt="Build Your Own Perplexity" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Build Your Own Perplexity</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="Cerebras_Cartesia_LiveKit_Exa_DeepGram_Apps/Imgs/Real_Time_Sales_Agent.png" alt="Real-Time Sales Agent" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Real‑Time Sales Agent</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 **Instructions:**  
 Run the notebooks in Google Colab (recommended for free GPU). Each notebook is self‑contained and includes setup cells.
@@ -298,13 +336,44 @@ Run the notebooks in Google Colab (recommended for free GPU). Each notebook is s
 
 **Key Images:**
 
-| Email Agent | Research Agent |
-|:---:|:---:|
-| ![Email](CrewAI_Apps/Imgs/CrewAI_Email_Agent.png) | ![Research](CrewAI_Apps/Imgs/CrewAI_Research_Agent.png) | 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="CrewAI_Apps/Imgs/CrewAI_Email_Agent.png" alt="Email Agent" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Email Agent</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="CrewAI_Apps/Imgs/CrewAI_Research_Agent.png" alt="Research Agent" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Research Agent</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
 
-| Marketing Agent | Legal Agent |
-|:---:|:---:|
-|![Marketing](CrewAI_Apps/Imgs/CrewAI_Marketing_Agent.png) | ![Legal](CrewAI_Apps/Imgs/CrewAI_Legal_Agent.png) |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="CrewAI_Apps/Imgs/CrewAI_Marketing_Agent.png" alt="Marketing Agent" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Marketing Agent</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="CrewAI_Apps/Imgs/CrewAI_Legal_Agent.png" alt="Legal Agent" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Legal Agent</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 **Instructions:**  
 1. Create a virtual environment (Conda recommended) with Python version from `.python-version`.  
@@ -322,9 +391,25 @@ Run the notebooks in Google Colab (recommended for free GPU). Each notebook is s
 
 **Key Images:**
 
-| CLI Agent | GUI Agent |
-|:---:|:---:|
-| ![CLI](LangBase_Apps/Imgs/LangBase_Agent_CLI.png) | ![GUI](LangBase_Apps/Imgs/LangBase_Agent_GUI.png) |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="LangBase_Apps/Imgs/LangBase_Agent_CLI.png" alt="CLI Agent" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>CLI Agent</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="LangBase_Apps/Imgs/LangBase_Agent_GUI.png" alt="GUI Agent" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>GUI Agent</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 **Instructions:**  
 1. Ensure Node.js and npm are installed.  
@@ -344,13 +429,44 @@ Run the notebooks in Google Colab (recommended for free GPU). Each notebook is s
 
 **Key Images:**
 
-| Restaurant Generator (1) | Restaurant Generator (2) | 
-|:---:|:---:|
-| ![Rest1](LangChain_LangGraph_LangSmith_Apps/Imgs/LangChain_Gemini_Restaurant_Generator_1.png) | ![Rest2](LangChain_LangGraph_LangSmith_Apps/Imgs/LangChain_Gemini_Restaurant_Generator_2.png) | 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="LangChain_LangGraph_LangSmith_Apps/Imgs/LangChain_Gemini_Restaurant_Generator_1.png" alt="Restaurant Generator (1)" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Restaurant Generator Input</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="LangChain_LangGraph_LangSmith_Apps/Imgs/LangChain_Gemini_Restaurant_Generator_2.png" alt="Restaurant Generator (2)" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Restaurant Generator Output</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
 
-| QA over Neo4j | RAG Summary |
-|:---:|:---:|
-| ![Neo4j QA](LangChain_LangGraph_LangSmith_Apps/Imgs/LangTrio_QA_Neo4J_Dataset.png) | ![RAG](LangChain_LangGraph_LangSmith_Apps/Imgs/LangTrio_Retrieval_Augmented_Generator.png) |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="LangChain_LangGraph_LangSmith_Apps/Imgs/LangTrio_QA_Neo4J_Dataset.png" alt="QA over Neo4j" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>QA over Neo4j</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="LangChain_LangGraph_LangSmith_Apps/Imgs/LangTrio_Retrieval_Augmented_Generator.png" alt="RAG Summary" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>RAG Summary</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 **Instructions:**  
 - For the **Restaurant Generator**:  
@@ -370,13 +486,46 @@ Run the notebooks in Google Colab (recommended for free GPU). Each notebook is s
 
 **Key Images:**
 
-| Agents | Components |
-|:---:|:---:|
-| ![Agents](LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_Agents.png) | ![Components](LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_ArizeAI_Components.png) |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_Agents.png" alt="Agents" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Agents</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_ArizeAI_Components.png" alt="Components" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Components</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
+
 ---
-| Tools | Workflows |
-|:---:|:---:|
-| ![Tools](LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_Tools.png) | ![Workflows](LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_Workflows.png) |
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_Tools.png" alt="Tools" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Tools</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_Workflows.png" alt="Workflows" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Workflows</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 **Instructions:**  
 Run the notebooks in Google Colab for optimal performance.
@@ -394,17 +543,81 @@ Run the notebooks in Google Colab for optimal performance.
 
 **Key Images:**
 
-| Ollama CLI | Ollama App | Ollama WebUI |
-|:---:|:---:|:---:|
-| ![Ollama CLI](LocalLLM_Inference_Softwares/Imgs/Ollama_CLI.png) | ![Ollama App](LocalLLM_Inference_Softwares/Imgs/Ollama_App.png) | ![Ollama WebUI](LocalLLM_Inference_Softwares/Imgs/Ollama_OpenWebUI.png) |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="LocalLLM_Inference_Softwares/Imgs/Ollama_CLI.png" alt="Ollama CLI" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Ollama CLI</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="LocalLLM_Inference_Softwares/Imgs/Ollama_App.png" alt="Ollama App" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Ollama App</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="LocalLLM_Inference_Softwares/Imgs/Ollama_OpenWebUI.png" alt="Ollama WebUI" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Ollama WebUI</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
 
-| Jan App | Koboldcpp | LM Studio |
-|:---:|:---:|:---:|
-| ![Jan](LocalLLM_Inference_Softwares/Imgs/JanAI_App.png) | ![Koboldcpp](LocalLLM_Inference_Softwares/Imgs/Koboldcpp_App.png) | ![LM Studio](LocalLLM_Inference_Softwares/Imgs/LMStudio_App.png) |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="LocalLLM_Inference_Softwares/Imgs/JanAI_App.png" alt="Jan App" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Jan App</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="LocalLLM_Inference_Softwares/Imgs/Koboldcpp_App.png" alt="Koboldcpp" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Koboldcpp</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="LocalLLM_Inference_Softwares/Imgs/LMStudio_App.png" alt="LM Studio" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>LM Studio</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
 
-| Openclaw CLI | Llamacpp CLI | vLLM CLI |
-|:---:|:---:|:---:|
-| ![Openclaw CLI](LocalLLM_Inference_Softwares/Imgs/Openclaw_CLI.png) | ![Llamacpp CLI](LocalLLM_Inference_Softwares/Imgs/Llamacpp_CLI.png) | ![vLLM CLI](LocalLLM_Inference_Softwares/Imgs/Vllm_CLI.png) |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="LocalLLM_Inference_Softwares/Imgs/Openclaw_CLI.png" alt="Openclaw CLI" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Openclaw CLI</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="LocalLLM_Inference_Softwares/Imgs/Llamacpp_CLI.png" alt="Llamacpp CLI" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Llamacpp CLI</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="LocalLLM_Inference_Softwares/Imgs/Vllm_CLI.png" alt="vLLM CLI" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>vLLM CLI</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 
 **Instructions:**  
@@ -428,17 +641,69 @@ Also includes configuration for Claude Desktop and GitHub Copilot integration.
 
 **Key Images:**
 
-| Claude Desktop Toy Dataset (1) | Claude Desktop Toy Dataset (2) | 
-|:---:|:---:|
-| ![Claude1](MCP_Server_Tools/Imgs/Claude_Desktop_ToyDatasetMCP1.png) | ![Claude2](MCP_Server_Tools/Imgs/Claude_Desktop_ToyDatasetMCP2.png) | 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="MCP_Server_Tools/Imgs/Claude_Desktop_ToyDatasetMCP1.png" alt="Claude Desktop Toy Dataset (1)" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Claude Desktop Toy Dataset Input</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="MCP_Server_Tools/Imgs/Claude_Desktop_ToyDatasetMCP2.png" alt="Claude Desktop Toy Dataset (2)" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Claude Desktop Toy Dataset Output</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
 
-|Copilot Calculator | Copilot Feed Search | 
-|:---:|:---:|
-|![CopilotCalc](MCP_Server_Tools/Imgs/Github_Copilot_CalculatorMCP.png) | ![CopilotFeed](MCP_Server_Tools/Imgs/Github_Copilot_FeedSearchMCP.png) | 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="MCP_Server_Tools/Imgs/Github_Copilot_CalculatorMCP.png" alt="Copilot Calculator" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Copilot Calculator</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="MCP_Server_Tools/Imgs/Github_Copilot_FeedSearchMCP.png" alt="Copilot Feed Search" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Copilot Feed Search</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
 
-|MCP Inspect Scenario 1 | MCP Inspect Scenario 2 | MCP Inspect Scenario 3 |
-|:---:|:---:|:---:|
-|![Inspect1](MCP_Server_Tools/Imgs/MCP_ServerInspect_Scenario1.png) | ![Inspect2](MCP_Server_Tools/Imgs/MCP_ServerInspect_Scenario2.png) | ![Inspect3](MCP_Server_Tools/Imgs/MCP_ServerInspect_Scenario3.png) |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="MCP_Server_Tools/Imgs/MCP_ServerInspect_Scenario1.png" alt="MCP Inspect Scenario 1" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>MCP Inspect Scenario 1</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="MCP_Server_Tools/Imgs/MCP_ServerInspect_Scenario2.png" alt="MCP Inspect Scenario 2" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>MCP Inspect Scenario 2</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="MCP_Server_Tools/Imgs/MCP_ServerInspect_Scenario3.png" alt="MCP Inspect Scenario 3" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>MCP Inspect Scenario 3</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 **Instructions:**  
 - **Claude Desktop MCP**:  
@@ -461,17 +726,63 @@ Also includes configuration for Claude Desktop and GitHub Copilot integration.
 
 **Key Images:**
 
-| Code Agent | Multi‑Agent | 
-|:---:|:---:|
-| ![Code](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_LangFuse_Code_Agent.png) | ![Multi](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Multi_Agents_Notebook.png) | 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="Smolagent_and_LangFuse_Apps/Imgs/Smolagents_LangFuse_Code_Agent.png" alt="Code Agent" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Code Agent</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Multi_Agents_Notebook.png" alt="Multi-Agent" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Multi‑Agent</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
 
-|Retrieval Agent | Tool‑calling Agent | 
-|:---:|:---:|
-|![Retrieval](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Retrieval_Agents.png) | ![ToolCall](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Tool_calling_Agents.png) |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Retrieval_Agents.png" alt="Retrieval Agent" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Retrieval Agent</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Tool_calling_Agents.png" alt="Tool‑calling Agent" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Tool‑calling Agent</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
 
-|Tools | Vision Agent |
-|:---:|:---:|
-| ![Tools](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Tools.png) | ![Vision](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Vision_Agents.png) |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Tools.png" alt="Tools" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>SmolAgent Tools</sub></strong></figcaption>
+        </figure>
+      </td>
+      <td align="center">
+        <img src="Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Vision_Agents.png" alt="Vision Agent" style="width:500px;"/><br/>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Vision Agent</sub></strong></figcaption>
+        </figure>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 **Instructions:**  
 Run the notebooks in Google Colab (recommended for free GPU). Each notebook is self‑contained.
